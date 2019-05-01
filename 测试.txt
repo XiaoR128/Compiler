@@ -1,0 +1,15 @@
+int ab_;
+int a1=1;
+int 1a;
+char s='k';
+float x=1.88;
+float y=1.2e-2;
+boolean z=1;
+while(num != 100){num++;}
+if(e||f){return 1;}
+else{return 0;}
+int d[2];
+/*amsajd*/
+/*sdfj
+float g=1.234.1;
+String h="plla;
